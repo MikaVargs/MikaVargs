@@ -1,3 +1,3 @@
 
 # TDS
-![Header](./img/github-header-image.png)
+![Header](./github-header-image.png)
